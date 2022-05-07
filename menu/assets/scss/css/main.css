@@ -1,0 +1,54 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+section .container {
+  padding-top: 10%;
+}
+
+section .container .row .col-lg-6 .btn-menu {
+  border-bottom: 3px solid green;
+}
+
+section .container .row .col-lg-6 .btn-menu ul {
+  padding: 0px;
+}
+
+section .container .row .col-lg-6 .btn-menu ul li {
+  list-style: none;
+}
+
+section .container .row .col-lg-6 .btn-menu ul li a {
+  text-decoration: none;
+  border: 2px solid black;
+  padding: 18px;
+  background-color: whitesmoke;
+  border-top-right-radius: 13px;
+  border-top-left-radius: 13px;
+  color: black;
+}
+
+section .container .row .service {
+  border: 1px solid black;
+  padding: 20px;
+}
+
+section .container .row .service .image {
+  width: 30%;
+  height: auto;
+}
+
+section .container .row .service .image img {
+  width: 100%;
+  height: auto;
+}
+
+section .container .row .service .info {
+  width: 70%;
+  height: auto;
+  padding-left: 20px;
+}
+/*# sourceMappingURL=main.css.map */
